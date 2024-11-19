@@ -1,0 +1,1 @@
+nasm -f elf64 prng.nasm && ld -o  prng prng.o
